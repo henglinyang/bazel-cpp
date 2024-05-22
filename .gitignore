@@ -1,6 +1,7 @@
 .swp
 .swo
 bazel-bin
+bazel-cpp
 bazel-out
 bazel-testlogs
 bazel-workspace
