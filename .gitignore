@@ -1,5 +1,6 @@
 .swp
 .swo
+bazel-bazel-cpp
 bazel-bin
 bazel-cpp
 bazel-out
